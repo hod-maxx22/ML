@@ -10,6 +10,8 @@ Before transitioning into Quantum Machine Learning (QML), I am mastering the cla
 - **Linear Regression**: Predicting outcomes based on historical data (e.g., house prices).
 - **Data Manipulation**: Using `Pandas` and `Numpy` to clean and structure information.
 - **Visualization**: Using `Matplotlib` to understand data trends.
+- Just a beginner following a structured course, some models can be improved in my exercises but I am patiently following the structured nature of the course.
+- Will come back to make right updates, so no doubts.
 
 ### 🛠️ Tech Stack
 - **Languages**: Python

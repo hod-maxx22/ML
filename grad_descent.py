@@ -5,7 +5,7 @@ def gradient_descent(x,y):
     m_curr=b_curr = 0
     iterations = 1000
     n = len(x)
-    learning_rate = 0.08
+    learning_rate = 0.09
     for i in range(iterations):
         y_predicted = m_curr * x + b_curr
         cost = (1/n) * sum([val**2 for val in (y - y_predicted)]) # Mean Squared Error

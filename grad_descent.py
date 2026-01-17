@@ -1,4 +1,5 @@
 import numpy as np
+# Learning Gradient Descent from Scratch
 
 def gradient_descent(x,y):
     m_curr=b_curr = 0
